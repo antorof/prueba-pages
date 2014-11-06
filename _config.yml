@@ -1,13 +1,12 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: HarmacenCloud
+# email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  HarmacenCloud es una aplicaci&oacute;n cloud que permite la gesti&oacute;n de un almac&eacute;n,
+  entradas y salidas, uso de QRs para controlar la presencia, control de stocks o sacar informes.
 baseurl: "/prueba-pages" # the subpath of your site, e.g. /blog/
 url: "https://antorof.github.io/prueba-pages" # the base hostname & protocol for your site
-twitter_username: not_exists
+# twitter_username: not_exists
 github_username:  antorof
 
 # Build settings
