@@ -17,5 +17,3 @@ hi('visitor');
 {% endhighlight %}
 
 > Wow, so amazing...
-
-Check out (my repository)[github.com/antorof]
