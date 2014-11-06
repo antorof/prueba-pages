@@ -14,5 +14,5 @@ github_username:  jekyll
 markdown: kramdown
 
 # or remove the 'pygments' line entirely
-pygments:         false
-highlighter:      rouge
+# pygments:         false
+# highlighter:      rouge
